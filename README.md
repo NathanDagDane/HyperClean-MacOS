@@ -17,3 +17,37 @@
         <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/HyperClean-MacOS/refs/heads/main/README-src/svg/also-available-dark.svg" width="160px">
     </picture>
 </div>
+
+---
+
+<!-- TOC -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#final-product">Final Product</a>
+      <ul>
+        <li><a href="#looks">Looks</a></li>
+        <li><a href="#features">Features</a></li>
+      </ul>
+    </li>
+    <li><a href="#installing-hyper">Installing Hyper</a></li>
+    <li><a href="#configuring-settings">Configuring Settings</a></li>
+    <li><a href="#installing-plugins">Installing Plugins</a></li>
+  </ol>
+</details>
+<!-- TOC -->
+
+---
+
+# Final Product
+### Looks
+
+### Features
+
+# Installing Hyper
+
+# Configuring Settings
+
+# Installing Plugins
+
